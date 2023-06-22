@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: tan;
+}
+
+.navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+li  {
+    display: inline;
+}
+
+fieldset {
+    border: 0;
+}
