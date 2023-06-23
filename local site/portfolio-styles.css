@@ -1,17 +1,42 @@
 body {
     text-align: center;
-    background-color: tan;
+    background-color: black;
 }
 
-div.container {
-    text-align: center;
-}
-
-ul.containerUl  {
+#ulList  {
     display:inline-block;
     text-align: left;
 }
 
 fieldset {
     border: 0;
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+#bodystyle {
+    background-color: tan;
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+}
+
+footer {
+    background-color:sienna;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+
+header {
+    background-color: sienna;
+    border-radius: 5px;
+}
+
+nav {
+    margin-bottom: 5%;
 }
