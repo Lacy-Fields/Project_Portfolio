@@ -3,15 +3,13 @@ body {
     background-color: tan;
 }
 
-.navlist {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    font-size: 20px;
+div.container {
+    text-align: center;
 }
 
-li  {
-    display: inline;
+ul.containerUl  {
+    display:inline-block;
+    text-align: left;
 }
 
 fieldset {
